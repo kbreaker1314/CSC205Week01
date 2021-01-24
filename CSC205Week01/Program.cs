@@ -26,7 +26,8 @@ namespace CSC205Week01
                 }
                 count--;
                 count2++;
-                Console.WriteLine(); 
+                Console.WriteLine();
+                Console.WriteLine("hello");
             }
         }
     }

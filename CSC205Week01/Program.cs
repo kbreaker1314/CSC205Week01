@@ -4,6 +4,7 @@ namespace CSC205Week01
 {
     class Program
     {
+        // making a 3 rows triangle using carots 
         static void Main(string[] args)
         {
             //Printing out the names of my teammates and me
@@ -27,7 +28,6 @@ namespace CSC205Week01
                 count--;
                 count2++;
                 Console.WriteLine();
-                Console.WriteLine("hello");
             }
         }
     }
